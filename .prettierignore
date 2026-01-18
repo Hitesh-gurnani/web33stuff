@@ -1,0 +1,11 @@
+# Ignore build directory
+.next/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore specific files
+pages/api/someFile.js
+
+# Ignore all test files
+**/*.test.js
